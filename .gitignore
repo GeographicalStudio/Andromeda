@@ -24,6 +24,8 @@ Thumbs.db
 *.out
 *.app
 .vscode/
+fltk/.git/
+fltk/.gitignore
 fltk-noncompiled/.git/
 fltk-noncompiled/.gitignore
 fltk-precompiled/.git/
